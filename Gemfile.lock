@@ -1,0 +1,11 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    regexp-examples (1.4.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  regexp-examples
+
